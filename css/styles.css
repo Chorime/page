@@ -49,6 +49,7 @@ p{
   line-height: 2;
 }
 
+
 .greeting{
   font-size: 20px;
   width: 25%;
@@ -100,6 +101,11 @@ p{
   width: 25%;
   float: right;
   margin-left: 30px;
+}
+
+.animeImg{
+  width: 25%;
+  float: left;
 }
 
 .footerC{
